@@ -1,0 +1,13 @@
+# local-only image prep -- the source photo stays off the public repo.
+# keep these around locally so you can re-tune the portrait any time.
+source-photo-crop.png
+source-prepped.png
+_cut.png
+
+# preview scratch
+preview.html
+_*.svg
+_*.png
+
+__pycache__/
+*.pyc
